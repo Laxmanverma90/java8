@@ -1,4 +1,4 @@
-package com.java.tests;
+package com.java.example;
 
 public class MethodReference {
 

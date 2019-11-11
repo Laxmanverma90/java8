@@ -1,4 +1,4 @@
-package com.java.tests;
+package com.java.example;
 
 import java.util.Optional;
 
